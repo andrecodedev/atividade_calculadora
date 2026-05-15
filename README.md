@@ -26,7 +26,7 @@ A calculadora realiza as seguintes operações matemáticas básicas:
 O projeto conta com uma classe de testes (`TesteCalculadora.java`) que valida todos os cenários, incluindo entradas inválidas e divisões críticas.
 
 ### Resultado dos Testes:
-*(Adicione aqui o print da execução dos testes no seu terminal)*
+![Execução dos Testes](screenshots/testes_print.png)
 
 ## 📚 Documentação JavaDoc
 A documentação técnica foi gerada automaticamente e pode ser encontrada na pasta `docs/`.
