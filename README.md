@@ -32,7 +32,7 @@ O projeto conta com uma classe de testes (`TesteCalculadora.java`) que valida to
 A documentação técnica foi gerada automaticamente e pode ser encontrada na pasta `docs/`.
 
 ### Exemplo da Documentação:
-*(Adicione aqui o print da página index.html gerada pelo JavaDoc)*
+![Documentação JavaDoc](screenshots/javadoc_print.png)
 
 ## 🌿 Estrutura de Branches
 O repositório está organizado em duas principais branches para demonstrar a evolução:
