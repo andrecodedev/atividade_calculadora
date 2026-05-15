@@ -39,6 +39,8 @@ O repositório está organizado em duas principais branches para demonstrar a ev
 - **`main`**: Contém a estrutura básica e os testes funcionais iniciais.
 - **`Refatoracao`**: Contém o código final refatorado, com JavaDoc completo e documentação HTML gerada.
 
+![Estrutura de Branches](screenshots/branch_refactor.png)
+
 ## 🔗 Repositório
 [Link do Repositório no GitHub](https://github.com/andrecodedev/atividade_calculadora)
 
